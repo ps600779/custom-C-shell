@@ -1,0 +1,20 @@
+ps
+pinfo 46051
+pinfo 46097
+make clean
+pinfo
+sleep 20
+ps
+echo "a"    "b"
+echo "a           b"
+code .
+clear
+ps
+ps aux
+ls
+ls -al
+ls -la
+echo "a    b
+make
+history
+history 15
